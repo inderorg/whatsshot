@@ -20,6 +20,10 @@
   font-size: 14px;
 
 }
+.left span{
+      border-left: 30px solid #eee;
+      padding-left: 10px;
+}
 .headingName{
   text-decoration: underline;
   font-size: 18px;
